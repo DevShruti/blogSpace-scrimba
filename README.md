@@ -1,2 +1,4 @@
 # blogSpace-scrimba
-Simple project to make GET, PUT,POST &amp;DELETE requests
+#### Simple project to make GET,POST requests
+
+#### Enjoy the [deployed site.](https://blog-space-scrimba.vercel.app/)
